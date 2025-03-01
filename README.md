@@ -1,0 +1,3 @@
+- Developed a scalable data platform on Azure Databricks as part of an academic project, utilizing PySpark and the Ergast API to ingest, transform, and store historical and real-time F1 data for analytics, reporting, and machine learning workflows.
+- Built an end-to-end ETL pipeline using Azure Data Factory, automating data extraction from the Ergast API, ingestion into a raw ADLS container, preprocessing in Databricks, and structured storage in a presentation layer for optimized reporting.
+- Designed and optimized real-time and batch processing pipelines, leveraging Delta Lake for efficient storage, version control, and time travel, while integrating Power BI to visualize key racing insights and enable data-driven decision-making.
